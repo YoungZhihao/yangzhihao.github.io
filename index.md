@@ -37,7 +37,7 @@ I am currently a Ph.D. candidate at the College of Computer Science and Artifici
 
 *(List your representative papers here with authors and titles. Example format:)*
 
-- Zhihao Yang, et al. "Title of Paper 1", *Journal/Conference*, Year.
+- **Zhihao Yang**, et al. "Scalable Scheduling of Real-Time Task and Message for Multi-Rate Task Chain in Time-Sensitive Edge System", **IEEE Transactions on Mobile Computing (TMC)**, 2026.
 - Zhihao Yang, et al. "Title of Paper 2", *Journal/Conference*, Year.
 
 Full list: [Google Scholar](https://scholar.google.com/citations?user=2mJUXZAAAAAJ&hl=en&authuser=1) · [ResearchGate](https://www.researchgate.net)
