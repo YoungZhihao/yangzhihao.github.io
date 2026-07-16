@@ -1,50 +1,54 @@
 # Zhihao Yang
 
-[GitHub Pages 主页链接] · [复旦大学] · [研究方向]
+[GitHub Pages](https://youngzhihao.github.io) · [Google Scholar](https://scholar.google.com/citations?user=2mJUXZAAAAAJ&hl=en&authuser=1)
 
 
-## Education Background
+## About Me
 
-Undergraduate: Bachelor in Automation, School of Control Science and Engineering, Shandong University, Shandong, China; Honored Bachelor of Shandong University.
-Postgraduate: Master in Science in Control Science and Engineering, Shanghai Jiao Tong University, Shanghai, China.
-
-我是复旦大学的一名 [博士后/博士生/研究员]，我的研究兴趣主要包括 **软件定义网络 (Software Defined Networking)** 和 **分布式机器学习 (Distributed Machine Learning)**，尤其关注可扩展性 (scalability) 问题[reference:1]。
+I am currently a Ph.D. candidate at the College of Computer Science and Artificial Intelligence, Fudan University, majoring in Computer Science and Technology. My research interests span **Satellite Internet**, **Large Language Models (LLMs)**, **Time-Sensitive Networking (TSN)**, and **Graph Neural Networks (GNNs)**. I am particularly interested in the integration of LLMs with multi-agent systems and intelligent scheduling in networked systems.
 
 
-## 研究方向
+## Education
 
-- **软件定义网络 (SDN)**：……
-- **分布式机器学习**：……
-- ……
+- **Ph.D. in Computer Science and Technology** (2026 – present)  
+  College of Computer Science and Artificial Intelligence, Fudan University, Shanghai, China.
 
+- **M.Sc. in Control Science and Engineering** (2023 – 2026)  
+  Department of Automation, School of Electronic Information and Electric Engineering, Shanghai Jiao Tong University, Shanghai, China.
 
-## 教育经历
-
-- **复旦大学**，[专业]，[学位]，[年份]
-- ……
-
-
-## 论文发表
-
-- [作者], "[论文标题]", *[期刊/会议名称]*, [年份].
-- ……
-
-完整列表请参见：[Google 学术搜索](https://scholar.google.com) · [ResearchGate](https://www.researchgate.net)
+- **B.Eng. in Automation** (2019 – 2023)  
+  School of Control Science and Engineering, Shandong University, Shandong, China (Honored Bachelor).
 
 
-## 项目与代码
+## Research Interests
 
-- **[项目名称]**：[GitHub 仓库链接] —— 简要描述
-- ……
+### Doctoral Research
+- **Satellite Internet**: Network architecture, resource management, and routing optimization.
+- **Large Language Models**: Application of LLMs in network control, multi-agent planning, and reasoning.
+
+### Master Research
+- **Time-Sensitive Networking (TSN)**: Deterministic communication and scheduling.
+- **Joint Communication and Scheduling**: Cross-layer optimization for industrial networks.
+- **Graph Neural Networks**: Representation learning for network topology and traffic.
+- **LLM-driven Multi-Agent Systems**: Using LLMs for cooperative decision-making in distributed systems.
 
 
-## 联系方式
+## Selected Publications
 
-- 邮箱：xxx@fudan.edu.cn
-- GitHub：[github.com/yourusername](https://github.com/yourusername)
-- 个人主页：[yourname.github.io](https://yourname.github.io)
+*(List your representative papers here with authors and titles. Example format:)*
+
+- Zhihao Yang, et al. "Title of Paper 1", *Journal/Conference*, Year.
+- Zhihao Yang, et al. "Title of Paper 2", *Journal/Conference*, Year.
+
+Full list: [Google Scholar](https://scholar.google.com/citations?user=2mJUXZAAAAAJ&hl=en&authuser=1) · [ResearchGate](https://www.researchgate.net)
 
 
-## 更新时间
+## Academic Services
 
-最后更新：2026 年 7 月
+- **TPC Member**: International Conference on Communication Technology (ICCT), 2026
+- **Reviewer**: IEEE Transactions on Mobile Computing
+
+
+## Last Updated
+
+July 16, 2026
