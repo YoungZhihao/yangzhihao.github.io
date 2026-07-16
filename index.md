@@ -1,11 +1,12 @@
-# 你的姓名
+# Zhihao Yang
 
 [GitHub Pages 主页链接] · [复旦大学] · [研究方向]
 
 
-## 个人简介
+## Education Background
 
-简要介绍你的学术背景、当前职位和研究方向。例如：
+Undergraduate: Bachelor in Automation, School of Control Science and Engineering, Shandong University, Shandong, China; Honored Bachelor of Shandong University.
+Postgraduate: Master in Science in Control Science and Engineering, Shanghai Jiao Tong University, Shanghai, China.
 
 我是复旦大学的一名 [博士后/博士生/研究员]，我的研究兴趣主要包括 **软件定义网络 (Software Defined Networking)** 和 **分布式机器学习 (Distributed Machine Learning)**，尤其关注可扩展性 (scalability) 问题[reference:1]。
 
